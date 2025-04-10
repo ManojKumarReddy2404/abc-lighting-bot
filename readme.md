@@ -47,21 +47,21 @@ abc_lighting_data.json/
    ```bash
    npm install
 2. Start the Express server:
-  node server.js
-3. Open Postman
-
-     Choose POST method
-     URL: http://localhost:3000/chat
-     Body → raw → JSON
-     Example input:
-    {
-      "message": "Tell me about your products"
-    }
+   ```bash
+   node server.js
+3. Open Postman:
+ Choose POST method
+URL: http://localhost:3000/chat
+Body → raw → JSON
+Example input:
+{
+ "message": "Tell me about your products"
+}
 4. Get your chatbot response and check the output:
 
-   {
-     "response": "We offer solar-powered lights including Street Light, Driveway Light, and Wall Light. Would you like to know more about any of them?\n\nIs there anything else I can help you with?"
-   }
+{
+  "response": "We offer solar-powered lights including Street Light, Driveway Light, and Wall Light. Would you like to know more about any of them?\n\nIs there anything else I can help you with?"
+}
 
 👤 Author
 P. Manoj Kumar Reddy
