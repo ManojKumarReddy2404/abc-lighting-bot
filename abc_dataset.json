@@ -1,0 +1,21 @@
+{
+  "companyInfo": {
+    "name": "ABC Lighting Corp",
+    "locations": ["New York", "Los Angeles"],
+    "businessHours": "Mon-Fri 9am to 6pm"
+  },
+  "products": [
+    {
+      "name": "Solar Powered Street Light",
+      "description": "Street Light SL-101 is 1.5 meters tall, lasts up to 12 hours per night, and has auto on/off sensors. [Image](https://via.placeholder.com/150?text=Street+Light)"
+    },
+    {
+      "name": "Solar Powered Driveway Light",
+      "description": "Driveway Light DL-202 is 10 cm in diameter, lasts up to 8 hours, is waterproof, and supports motion detection. [Image](https://via.placeholder.com/150?text=Driveway+Light)"
+    },
+    {
+      "name": "Solar Powered Wall Light",
+      "description": "Wall-Mounted Solar Light WS-303 is 25 cm height, 15 cm width, lasts up to 10 hours, and includes features like Wall-mountable, Bright LED, Weatherproof. [Image](https://via.placeholder.com/150?text=Wall+Light)"
+    }
+  ]
+}
