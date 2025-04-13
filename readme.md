@@ -68,9 +68,4 @@ P. Manoj Kumar Reddy
 Intern Assignment — April 2025
 For ABC Lighting Company
 
-🎥 Demo
 
-Loom video:
-
-
-Let me know once you've pushed this or if you want me to help generate a professional Loom script next!
